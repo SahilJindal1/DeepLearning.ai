@@ -1,2 +1,5 @@
 # DeepLearning.ai
-Based on andrew ng deep learning course
+
+### Here are all my Coursera certificates of deeplearning.ai
+
+*PS: I am not posting any programming assignment answers as for now.
